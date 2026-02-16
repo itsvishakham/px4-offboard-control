@@ -1,0 +1,2 @@
+mavsdk==1.4.10
+asyncio-contextmanager
